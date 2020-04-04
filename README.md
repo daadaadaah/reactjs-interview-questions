@@ -1,6 +1,7 @@
 # React Interview Questions & Answers
 
 > Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> ver.[ko](https://github.com/daadaadaah/reactjs-interview-questions-ko)
 
 ### Table of Contents
 
